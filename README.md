@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## In this project we are buiding  next framework and signcat Api to make user sign theit pdf with a pad signuture or with a national ID using signecat api.
- ## It will be integrated with login service and payment service stripe  and others service ..
+ In this project we are buiding  next framework and signcat Api to make user  upload , sign , downlaod their pdf with a pad signuture or with a national ID using signecat api.
+  It will be integrated with login service, payment service Stripe ,Aws bucket and others service ..
 
 
 ![alt text](https://github.com/emabistar/pdfsigne/blob/main/pdfscreen.png?raw=true)
