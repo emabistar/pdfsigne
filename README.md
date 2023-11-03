@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## In this project we are buiding  next framework and signcat Api to make user sign theit pdf with a pad signuture or with a national ID using signecat api.
+ ## It will be integrated with login service and payment service stripe  and others service ..
+
+
+![alt text](https://github.com/emabistar/pdfsigne/blob/main/pdfscreen.png?raw=true)
+
+
+
 ## Getting Started
 
 First, run the development server:
@@ -14,11 +22,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
