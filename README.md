@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## This is a ongoing project built with next js and other services.
 
  In this project we are buiding  next framework and signcat Api to make user  upload , sign , downlaod their pdf with a pad signuture or with a national ID using signecat api.
   It will be integrated with login service, payment service Stripe ,Aws bucket and others service ..
